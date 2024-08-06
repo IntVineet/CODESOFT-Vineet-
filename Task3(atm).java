@@ -2,7 +2,7 @@ import java.util.*;
 class atm_back{
         int pin=0000;
         float bal;
-
+        
         public void checkpin(){
             Scanner sc = new Scanner(System.in);
             System.out.println("Enter the pin ");
